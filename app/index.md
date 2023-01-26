@@ -10,9 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
-
-[Imagine](song/jan/vanilla-panna-cotta.md)
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
@@ -21,3 +18,15 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
 [Mr. Brightside](song/jan/mr_brightside.md)
+
+
+### [AC/DC](writer/ac_dc.md) | acdc@onlyrics.magazine
+
+[Back in Black](song/feb/back_in_black.md)
+
+### [Imagine Dragons](writer/imagine_dragons.md)  | imagine.dragons@onlirycs.magazine
+
+[Believer](song/feb/believer.md)
+
+## Last Month's Favorites
+
