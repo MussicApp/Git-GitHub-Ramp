@@ -26,6 +26,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Back in Black](song/feb/back_in_black.md)
 
-### [Imagine Dragons0](writer/imagine_dragons.md)  | imagine.dragons6♦onlirycs.magazine
+### [Imagine Dragons](writer/imagine_dragons.md)  | imagine.dragons@onlirycs.magazine
 
 [Believer](song/feb/believer.md)
+
+## Last Month's Favorites
